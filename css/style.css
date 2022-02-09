@@ -12,6 +12,11 @@ header {
     height: 90px;
 }
 
+main{
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
 h1 {
     color: #901C1C;
     margin-right: 100px;
